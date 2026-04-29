@@ -1,0 +1,17 @@
+build/
+cmake-build-*/
+
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+.cache/
+.vscode/
+.idea/
+
+*.log
+*.tmp
